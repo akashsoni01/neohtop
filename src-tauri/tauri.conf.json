@@ -23,10 +23,10 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.neohtop.dev",
+      "identifier": "com.",
       "targets": ["app", "dmg"],
       "macOS": {
-        "signingIdentity": "Developer ID Application: Abdenasser Elidrissi (785JV74B9Y)",
+        "signingIdentity": null,
         "hardenedRuntime": true,
         "entitlements": null,
         "providerShortName": null
